@@ -20,7 +20,7 @@ var tasks = [
 		{
 			func: function(option, callback) {
 				// task 2
-				callback(null, option.value);
+				callback(null, option.value); // option.value === 42
 			},
 			option: {
 				value: 42
