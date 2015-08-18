@@ -1,7 +1,7 @@
 # swint-task
 Batch task manager for Swint
 
-**Warning: This is not final draft yet, so do not use this until its official version is launched**
+**Warning: This is not the final draft yet, so do not use this until its official version is launched**
 
 ## Installation
 ```sh
