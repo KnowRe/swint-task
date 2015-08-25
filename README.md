@@ -1,5 +1,5 @@
 # swint-task
-Batch task manager for Swint
+Batch task manager for Swint. Proceeds the tasks one-by-one, respectively.
 
 **Warning: This is not the final draft yet, so do not use this until its official version is launched**
 
