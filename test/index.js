@@ -1,6 +1,8 @@
 var assert = require('assert'),
 	swintTask = require('../lib');
 
+global.swintVar.printLevel = 5;
+
 describe('task', function() {
 	it('Check if tasks run in series', function(done) {
 		var sharedArray = [],
