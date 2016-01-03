@@ -21,10 +21,13 @@
   "bugs": {
     "url": "https://github.com/KnowRe/swint-task/issues"
   },
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "homepage": "https://github.com/KnowRe/swint-task",
   "dependencies": {
     "async": "^1.4.2",
-    "swint-helper": "^0.1.4"
+    "swint-helper": "1.x"
   },
   "devDependencies": {
     "mocha": "*",
